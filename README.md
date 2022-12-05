@@ -1,0 +1,3 @@
+# AOC 2022 with julia
+
+Me, trying to learn some julia....
